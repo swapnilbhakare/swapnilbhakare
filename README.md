@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nodejs,Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://swapnilbhakare.github.io/swapnilbhakare/](https://swapnilbhakare.github.io/swapnilbhakare/)
+- 👨‍💻 All of my projects are available at [https://swapnilbhakare.github.io/](https://swapnilbhakare.github.io/)
 
 - 💬 Ask me about **Front End and Back End Technologies**
 
