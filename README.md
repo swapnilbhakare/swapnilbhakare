@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhakare</h1>
-<h3 align="center">A passionate Full Stack Developer from India :)</h3>
+<h3 align="center">Full Time Software Enginner from India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhakare&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhakare" /> </p>
 <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="200" height="200" align="right" alt="developer"/>
