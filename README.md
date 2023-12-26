@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhakare&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhakare" /> </p>
 <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="200" height="200" align="right" alt="developer"/>
 
-- 🌱 I’m currently learning **Next.js,Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://swapnilbhakare.github.io/](https://swapnilbhakare.github.io/)
 
