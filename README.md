@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhakare</h1>
-<h3 align="center">Data Engineer | AWS, PySpark, Airflow</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swapnilbhakare&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhakare" /> 
@@ -42,13 +42,29 @@
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
-  <!-- Databricks -->
-  <a href="https://www.databricks.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/D/databricks-logo-0F432B2F4A-seeklogo.com.png" alt="databricks" width="40" height="40"/> 
+  <!-- AWS S3 -->
+  <a href="https://aws.amazon.com/s3/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/amazon-s3-simple-storage-service-logo-7B8CB9B87E-seeklogo.com.png" alt="s3" width="40" height="40"/> 
   </a>
-  <!-- Snowflake -->
-  <a href="https://www.snowflake.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/S/snowflake-logo-766EA6D2CD-seeklogo.com.png" alt="snowflake" width="40" height="40"/> 
+  <!-- AWS Glue -->
+  <a href="https://aws.amazon.com/glue/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/aws-glue-logo-B99E8E18E9-seeklogo.com.png" alt="aws glue" width="40" height="40"/> 
+  </a>
+  <!-- AWS Redshift -->
+  <a href="https://aws.amazon.com/redshift/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/amazon-redshift-logo-9B62D0A2B1-seeklogo.com.png" alt="redshift" width="40" height="40"/> 
+  </a>
+  <!-- AWS Athena -->
+  <a href="https://aws.amazon.com/athena/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/amazon-athena-logo-7A5A8E9D06-seeklogo.com.png" alt="athena" width="40" height="40"/> 
+  </a>
+  <!-- AWS Lambda -->
+  <a href="https://aws.amazon.com/lambda/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/aws-lambda-logo-3A3C66A5C4-seeklogo.com.png" alt="lambda" width="40" height="40"/> 
+  </a>
+  <!-- AWS SNS -->
+  <a href="https://aws.amazon.com/sns/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/amazon-sns-simple-notification-service-logo-21CC5515F2-seeklogo.com.png" alt="sns" width="40" height="40"/> 
   </a>
   <!-- Kafka -->
   <a href="https://kafka.apache.org/" target="_blank"> 
@@ -58,9 +74,9 @@
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sql server" width="40" height="40"/> 
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> 
