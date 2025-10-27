@@ -25,72 +25,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- PySpark / Apache -->
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="pyspark" width="40" height="40"/>
-  </a>
-  <!-- Airflow -->
-  <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
-  </a>
-  <!-- AWS (general) -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- S3 -->
-  <a href="https://aws.amazon.com/s3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/Amazon-Simple-Storage-Service-S3_light-bg.svg" alt="s3" width="40" height="40"/>
-  </a>
-  <!-- Glue -->
-  <a href="https://aws.amazon.com/glue/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/AWS-Glue_light-bg.svg" alt="glue" width="40" height="40"/>
-  </a>
-  <!-- Redshift -->
-  <a href="https://aws.amazon.com/redshift/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/Amazon-Redshift_light-bg.svg" alt="redshift" width="40" height="40"/>
-  </a>
-  <!-- Athena -->
-  <a href="https://aws.amazon.com/athena/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/Amazon-Athena_light-bg.svg" alt="athena" width="40" height="40"/>
-  </a>
-  <!-- Lambda -->
-  <a href="https://aws.amazon.com/lambda/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/AWS-Lambda_light-bg.svg" alt="lambda" width="40" height="40"/>
-  </a>
-  <!-- SNS -->
-  <a href="https://aws.amazon.com/sns/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aws-samples/aws-icons-for-architecture@main/Amazon-Simple-Notification-Service-SNS_light-bg.svg" alt="sns" width="40" height="40"/>
-  </a>
-  <!-- Kafka -->
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/kafka/kafka-original.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <!-- Hadoop -->
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-  <!-- Hive -->
-  <a href="https://hive.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/hive/hive-original.svg" alt="hive" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" alt="pyspark" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" alt="airflow" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="aws" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/S3-FF9900?logo=amazonaws&logoColor=white" alt="s3" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Glue-4B88A2?logo=awsglue&logoColor=white" alt="glue" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Redshift-BA0C2F?logo=amazonredshift&logoColor=white" alt="redshift" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Athena-4B88A2?logo=amazoneks&logoColor=white" alt="athena" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Lambda-%237F3F98?logo=awslambda&logoColor=white" alt="lambda" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white" alt="sns" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" alt="kafka" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachedatabase&logoColor=white" alt="hadoop" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Hive-FFC20E?logo=apachehive&logoColor=black" alt="hive" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="docker" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?logo=microsoftsqlserver&logoColor=white" alt="sqlserver" style="margin-right:6px"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="git" />
 </p>
 
 
