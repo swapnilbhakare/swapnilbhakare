@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhakare</h1>
-<h3 align="center">Data Engineer | AWS, PySpark, Airflow | Building Scalable Data Pipelines & ETL Systems</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=swapnilbhakare&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhakare" /> 
