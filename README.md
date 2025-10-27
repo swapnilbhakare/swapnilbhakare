@@ -25,6 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
@@ -69,6 +70,14 @@
   <!-- Kafka -->
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/kafka/kafka-original.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <!-- Hadoop -->
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+  <!-- Hive -->
+  <a href="https://hive.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/icons/hive/hive-original.svg" alt="hive" width="40" height="40"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
